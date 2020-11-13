@@ -1,0 +1,15 @@
+.pet{
+    h2{
+        color: $title;
+        font-size: 1.5em;
+        margin-top: 10px;
+        font-weight: 600;
+    }
+    .pet-type{
+        color: teal;
+        font-size: 1.2em;
+    }
+    .pet-desc{
+        margin-top: 10px;
+    }
+}

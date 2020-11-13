@@ -1,0 +1,5 @@
+{
+    "Cat":{"id":"1","name":"Orange Cat","type":"Cat","image":"cat.jpg","desc":"Friendliest cat breed. Smart and affectionate!"},
+    "Labrador":{"id":"2","name":"Labrador","type":"Dog","image":"labrador.jpg","desc":"Cute, easy to train. The best friend of humans."},
+    "Goldfish":{"id":"3","name":"Goldfish","type":"Fish","image":"goldfish.jpg","desc":"All you need to do is feeding them. Pretty pet."}
+}
